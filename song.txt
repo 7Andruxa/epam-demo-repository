@@ -1,13 +1,5 @@
-blabla1
-blabla2
+shared content
 
-newbla1
-newbla2
+only in feature
 
-evennewer1
-evennewer3
 
-------------
-
-newbranch1
-newbranch2
